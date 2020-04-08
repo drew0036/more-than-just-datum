@@ -6,12 +6,16 @@ html {
   background-color: #eee;
 }
 
-.finder {
+header {
   background-color: #ddd;
 }
 
 .logo {
   max-width: 200px;
+}
+
+.searchbar {
+  max-width: 100%;
 }
 
 .fff {
