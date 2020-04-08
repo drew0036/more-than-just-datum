@@ -57,12 +57,3 @@ table {
 .playhouse {
   width: 6em;
 }
-
-.searchbar {
-  position: absolute;
-}
-
-.searchicon {
-  position: relative;
-  top: 50%;
-}
