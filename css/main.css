@@ -1,5 +1,12 @@
 html {
   font-family: "IBM Plex Sans", sans-serif;
+}
+
+.nearby {
+  background-color: #eee;
+}
+
+.finder {
   background-color: #ddd;
 }
 
@@ -20,7 +27,7 @@ table {
 }
 
 .park-type {
-  width: 8em;
+  width: 6em;
 }
 
 .age-group {
@@ -45,4 +52,13 @@ table {
 
 .playhouse {
   width: 6em;
+}
+
+.searchbar {
+  position: absolute;
+}
+
+.searchicon {
+  position: relative;
+  top: 50%;
 }
