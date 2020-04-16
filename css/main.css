@@ -15,7 +15,20 @@ header {
 }
 
 .searchbar {
-  max-width: 100%;
+  position: relative;
+  margin: 0;
+}
+
+.search {
+  height: 20px;
+  margin: 0;
+  padding-left: 30px;
+}
+
+.searchicon {
+  position: absolute;
+  bottom: 1px;
+  left: 10px;
 }
 
 .fff {
@@ -56,4 +69,12 @@ table {
 
 .playhouse {
   width: 6em;
+}
+
+@media only screen and (min-width: 90em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
 }
